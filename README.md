@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Govind
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c, html, python, JavaScript,java
-- 💞️ I’m looking to collaborate on webpage design
+- 🌱 I’m currently learning C/C++, html, Data Structurte and Algorithm, DBMS, OS
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me govindshahu2@gmail.com
 
 <!---
